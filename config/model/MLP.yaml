@@ -1,0 +1,9 @@
+# Fully-connected architecture
+n_layers_emb: 3
+n_layers_feat: 3
+n_layers_cat: 3
+h_dim_emb: 32
+input_dim: 300
+h_dim_feat: 64
+act_fn: 'swish'
+dropout: 0.3
