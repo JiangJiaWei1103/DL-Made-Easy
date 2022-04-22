@@ -8,8 +8,6 @@ optional.
 """
 import gc
 import warnings
-
-# Import packages
 from argparse import Namespace
 
 import pandas as pd
